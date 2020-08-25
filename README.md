@@ -1,6 +1,8 @@
 # dotfiles
 Configs and so on for my desktop set up
 
+## What's here
+
 The following go in ~/.config
 
 - dunst
@@ -15,9 +17,9 @@ The _.dotfiles_ go in my home folder. Configuration for
 - zsh
 - Xresources
 
-**Screenshots**
+## Screenshots
 
-*** Polybar 01 ***
+### Polybar 01
 
 ![logo](screenshots/polybar-01.png) <br />
 

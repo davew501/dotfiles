@@ -27,5 +27,7 @@ fc-cache -v
 
 ### Polybar 01
 
+Based on polybar-8 from https://github.com/adi1090x/polybar-themes
+
 ![logo](screenshots/polybar-01.png) <br />
 

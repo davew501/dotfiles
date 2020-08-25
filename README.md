@@ -3,7 +3,7 @@ Configs and so on for my desktop set up
 
 ## What's here
 
-The following go in ~/.config
+The following go in ``~/.config``
 
 - dunst
 - mpDris2
@@ -16,6 +16,12 @@ The _.dotfiles_ go in my home folder. Configuration for
 - ncmpcpp
 - zsh
 - Xresources
+
+The fonts go into ``~/.local/share/fonts`` then run
+
+```bash
+fc-cache -v
+```
 
 ## Screenshots
 

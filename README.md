@@ -8,7 +8,16 @@ The following go in ~/.config
 - polybar-01 (as polybar)
 - regolith
 
+The _.dotfiles_ go in my home folder. Configuration for
+
+- mpd
+- ncmpcpp
+- zsh
+- Xresources
+
 **Screenshots**
+
+*** Polybar 01 ***
 
 ![logo](screenshots/polybar-01.png) <br />
 

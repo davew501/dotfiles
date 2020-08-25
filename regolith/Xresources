@@ -1,0 +1,9 @@
+i3-wm.bar.position:    top
+i3-wm.bar.trayoutput:	primary
+i3-wm.font: pango:DejaVu Sans 10
+i3-wm.workspace.01.name: 1:<span font_desc='JetBrains Mono Medium 13'> T </span>
+i3-wm.workspace.02.name: 2:<span font_desc='JetBrains Mono Medium 13'> W </span>
+i3-wm.workspace.03.name: 3:<span font_desc='JetBrains Mono Medium 13'> S </span>
+i3-wm.workspace.04.name: 4:<span font_desc='JetBrains Mono Medium 13'> C </span>
+i3-wm.workspace.05.name: 5:<span font_desc='JetBrains Mono Medium 13'> V </span>
+rofi.font: pango:JetBrains Mono Medium 10

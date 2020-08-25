@@ -10,5 +10,5 @@ The following go in ~/.config
 
 **Screenshots**
 
-![logo](https://raw.githubusercontent.com/dworth501/files/master/dotfiles/screenshots/polybar-01.png) <br />
+![logo](screenshots/polybar-01.png) <br />
 
